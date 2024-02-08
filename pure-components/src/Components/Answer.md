@@ -1,0 +1,2 @@
+Question: Which out of the two components (which are performing the same functionality) is performing better and how? 
+Ans. Pure components refer to components that are implemented without any additional frameworks or libraries and pure components might offer some of the advantages such as lightweigthedness, simplicity, and better performance so, pure components are performing better.
